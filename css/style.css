@@ -25,3 +25,9 @@ ul {
   margin: 0 auto;
   padding: 0 15px;
 }
+
+.header__content{
+  height: 400px;
+  text-align: center;
+  color: #fff;
+}
